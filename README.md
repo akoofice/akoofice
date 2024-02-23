@@ -9,8 +9,6 @@
 
 # About Me
 
- [![Profile Views](https://gpvc.arturio.dev/akoofice)](https://github.com/akoofice)
-
  📫 Contact me at [Telegram](https://t.me/Ech_null)
 
 <p align="center">
