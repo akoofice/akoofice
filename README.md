@@ -15,7 +15,7 @@
   <a href="https://t.me/Ech_null"><img src="https://telegra.ph/file/1b7fba8f493e6eb06bacd.jpg"></a>
     </p>
 
-# Github Stats
+## 🐙 Github Stats
 <p align="center">
     <img
         width="49%"
@@ -26,6 +26,11 @@
         src="https://github-readme-streak-stats.herokuapp.com?user=akoofice&theme=tokyonight"
     />
 </p>
+
+## 🌐 **Top Languages**
+
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akoofice&show_icons=true&theme=radical&layout=compact)](https://github.com/Scroxy-X)
+
 
 ### Playing Spotify 🎧
 
